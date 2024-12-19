@@ -6,7 +6,7 @@ A Memoteca é um aplicativo organizador de pensamentos e frases que permite cada
 | -------------  | --- |
 | :sparkles: Nome        | **Memoteca**
 | :label: Tecnologias | JavaScript
-| :rocket: URL         | https://andreduarte99.github.io/memoteca/
+| :rocket: URL         | https://andreduarte99.github.io/memoteca-parte2/
 | :fire: Desafio     | https://cursos.alura.com.br/course/javascript-implementando-crud-requisicoes-http
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 
