@@ -1,8 +1,17 @@
-![Thumbnail](./thumbnail.png)
-
 # Memoteca
 
 A Memoteca é um aplicativo organizador de pensamentos e frases que permite cadastrar, listar, editar,  deletar, filtrar e favoritar pensamentos, incluindo informações como conteúdo, autoria e data.
+
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **Memoteca**
+| :label: Tecnologias | JavaScript
+| :rocket: URL         | https://andreduarte99.github.io/memoteca/
+| :fire: Desafio     | https://cursos.alura.com.br/course/javascript-implementando-crud-requisicoes-http
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
+
+
+![Screenshot_1](https://github.com/user-attachments/assets/a13db8c8-c773-4a36-8160-415fed227dd1#vitrinedev)
 
 ## 🔨 Funcionalidades do projeto
 
